@@ -4,4 +4,4 @@ Basically, this is a "sandbox" website where I can get a better grip on Jekyll w
 
 I have specifically started *without* a theme, because I want to make my own theme(s). (I also just want to see what GitHub will generate without a theme chosen at the start....).
 
-Here's a link to my [About](About) page.
+Here's a link to my [About](About.md) page.
