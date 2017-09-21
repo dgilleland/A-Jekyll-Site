@@ -16,4 +16,4 @@
 
 ----
 
-[Home](/readme.md) - [Nabeel Qureshi](nabeel.md) - 
+[Home](/README.md) - [Nabeel Qureshi](nabeel.md) - 
