@@ -5,3 +5,6 @@
 
 > On the rare occasion that someone does invite a Muslim to his or her home, differences in culture and hospitality may make the Muslim feel uncomfortable, and the host must be willing to ask, learn, and adapt to overcome this. There are simply too many barriers for Muslim immigrants to understand Christians and the West by sheer circumstance. Only the exceptional blend of love, humility, hospitality, and persistence can overcome these barriers, and not enough people make the effort.
 
+---
+
+[Home](/readme.md)
