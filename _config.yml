@@ -1,8 +1,13 @@
-gems:
-  - jekyll-relative-links
+title: A Jekyll Site
+description: Incrementally getting better at building Jekyll-based websites hosted on GitHub.
+show_downloads: false
+encoding: utf-8
 relative_links:
   enabled:     true
   collections: true
 collections:
   quotes:
     output: true
+gems:
+  - github-pages
+  - jekyll-relative-links
