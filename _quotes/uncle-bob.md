@@ -1,4 +1,5 @@
 ---
+permalink: /unclebob/
 ---
 # [Robert Cecil Martin](https://www.goodreads.com/author/quotes/45372.Robert_C_Martin) (aka "Uncle Bob")
 
