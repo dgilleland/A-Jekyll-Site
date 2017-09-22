@@ -6,3 +6,5 @@ relative_links:
 collections:
   quotes:
     output: true
+
+theme: jekyll-theme-cayman
