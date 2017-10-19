@@ -8,6 +8,8 @@ relative_links:
 collections:
   quotes:
     output: true
+  gallery:
+    output: true
 gems:
   - github-pages
   - jekyll-relative-links
