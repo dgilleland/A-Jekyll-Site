@@ -8,4 +8,4 @@ Here's a link to my [About](About.md) page. Notice a couple of things: 1) The li
 
 ----
 
-[Uncle Bob](_quotes/uncle-bob.md) [Design Quotes](_quotes/design.md)
+[Uncle Bob](_quotes/uncle-bob.md) - [Design Quotes](_quotes/design.md) - [Unsplash Images](_gallery/unsplash.md)
