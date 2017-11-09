@@ -10,6 +10,6 @@ collections:
     output: true
   gallery:
     output: true
-gems:
+plugins:
   - github-pages
   - jekyll-relative-links
