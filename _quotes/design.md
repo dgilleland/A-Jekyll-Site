@@ -1,5 +1,5 @@
 ---
-permalink: designquotes
+permalink: /designquotes/
 ---
 # Assorted Design Quotes
 
