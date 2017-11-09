@@ -17,4 +17,4 @@ permalink: /unclebob/
 
 ----
 
-[Home](/README.md) - [Nabeel Qureshi](nabeel.md) - [Design Quotes](./designquotes)
+[Home](/README.md) - [Nabeel Qureshi](nabeel.md) - [Design Quotes](design.md)
