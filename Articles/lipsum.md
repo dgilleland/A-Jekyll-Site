@@ -23,5 +23,8 @@ Dolorum quos cumque iure ex, sit dolorem maxime expedita, dignissimos ullam quam
 Fugit consequuntur sit molestiae voluptatibus iusto, officia, cupiditate animi dicta nisi commodi aliquam impedit asperiores minima saepe voluptates repellat quia delectus veritatis non excepturi libero assumenda alias consequatur. Voluptate, nam?
 
 Aliquam in minus distinctio voluptatibus facere, eos iusto asperiores provident animi repudiandae delectus aperiam autem voluptates repellat accusantium soluta repellendus eius qui enim, dignissimos laborum minima. Dolor laborum numquam, excepturi.
-  
+
+![](./imgs/software-engineering-explained.png)
+
 Aliquam atque, fugiat quasi inventore praesentium cupiditate iusto. Veritatis, natus ipsum repellat non corporis. Minima velit ullam sit, illum similique vitae quos praesentium animi! Quibusdam, quasi porro cumque facilis commodi.
+
