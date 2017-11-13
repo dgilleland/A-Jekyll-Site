@@ -4,6 +4,8 @@
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa corrupti sed molestias officia dolorum amet. Architecto cupiditate ex, accusamus commodi maxime dicta minus nisi maiores recusandae nobis. Officiis deleniti, vitae.
 
+![](phd011406s.gif)
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde atque excepturi consequatur dolore! Quasi in saepe repellat facere, minus repudiandae error itaque dolorem aliquid, fuga, aspernatur, sed eius quas ullam.
 
 Id quo, molestiae incidunt recusandae numquam consequuntur aut ad eaque neque aliquam autem veritatis error voluptatum, nihil repudiandae illo voluptatibus. Excepturi incidunt inventore sequi, veritatis alias? Esse repellendus, ea veniam!
